@@ -1,10 +1,10 @@
-🧠 Deep Learning for Beginners
+🧠 **Deep Learning for Beginners**
 
 This repository is created for beginners who want to start Deep Learning from scratch using simple explanations, Python code, and practical examples.
 
 The goal of this project is to help students understand how deep learning works internally, not just how to use libraries.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Understand what Deep Learning is
 
@@ -16,7 +16,7 @@ Learn how models learn from data
 
 Build confidence to move toward advanced topics like CNNs and RNNs
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Python 3
 
@@ -28,7 +28,7 @@ TensorFlow / Keras (Beginner Level)
 
 Jupyter Notebook / VS Code
 
-📁 Repository Structure
+📁 **Repository Structure**
 Deep-Learning-Beginner/
 │
 ├── 01_python_basics.py
@@ -41,7 +41,7 @@ Deep-Learning-Beginner/
 ├── 08_simple_nn_keras.py
 ├── README.md
 
-📘 Topics Covered
+📘 **Topics Covered**
 🔹 Fundamentals
 
 What is Artificial Intelligence?
@@ -98,7 +98,8 @@ Simple Neural Network using Keras
 
 Model training & evaluation
 
-▶️ How to Run the Code
+▶️ **How to Run the Code**
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/Deep-Learning-Beginner.git
 cd Deep-Learning-Beginner
@@ -112,7 +113,7 @@ python 04_neural_network_basics.py
 
 Or open .ipynb files in Jupyter Notebook.
 
-📊 Sample Output
+📊 **Sample Output**
 Epoch 1/100 - Loss: 0.652
 Epoch 25/100 - Loss: 0.214
 Epoch 50/100 - Loss: 0.091
@@ -120,7 +121,7 @@ Epoch 100/100 - Loss: 0.023
 
 Model accuracy: 96.8%
 
-🧠 Who Is This For?
+🧠 **Who Is This For?**
 
 Engineering students
 
@@ -130,7 +131,7 @@ College mini-project learners
 
 Anyone curious about how Deep Learning works
 
-🚧 Limitations
+🚧 **Limitations**
 
 No advanced architectures (yet)
 
@@ -138,7 +139,7 @@ Small datasets only
 
 Focus on learning, not optimization
 
-🚀 Future Enhancements
+🚀 **Future Enhancements**
 
 Convolutional Neural Networks (CNN)
 
@@ -152,7 +153,7 @@ Transfer Learning
 
 Projects & assignments
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Piyush Sharma
 B.Tech Student | Deep Learning Enthusiast | Python Developer
