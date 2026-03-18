@@ -79,7 +79,7 @@ cd Crowd_Survill
 ```
 ### Install dependencies
 ```bash
-pip install -r requirements.txt
+See the requirements.md file and then install your virtual environment folder
 ```
 ## 📊 Results
 
