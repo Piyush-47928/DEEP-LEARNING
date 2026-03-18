@@ -57,5 +57,3 @@ tensorboard==2.14.1
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 - **umap-learn** is essential for your pipeline (don’t skip it).
-```
-- umap-learn is essential for your pipeline (don’t skip it).
