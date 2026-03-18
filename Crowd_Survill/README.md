@@ -58,11 +58,9 @@ Siamese Network (Similarity Learning)
 ```bash
 Crowd-Surveillance/
 │── data/ # Dataset (not included)
-│── models/ # Model architecture files
-│── training/ # Training scripts
-│── utils/ # Helper functions
-│── checkpoints/ # Saved models
-│── results/ # Outputs and logs
+│── models/ # Model architecture files 
+│── LLE (1st model created)
+│── UMAP+Supervised_LLE (Main file)
 │── README.md
 ```
 
