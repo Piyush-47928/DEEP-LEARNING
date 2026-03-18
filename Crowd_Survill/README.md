@@ -71,11 +71,11 @@ Crowd-Surveillance/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/Piyush-47928/crowd-surveillance.git
+git clone https://github.com/Piyush-47928/Crowd_Survill.git
 ```
 ### Navigate to project folder
 ```bash
-cd crowd-surveillance
+cd Crowd_Survill
 ```
 ### Install dependencies
 ```bash
