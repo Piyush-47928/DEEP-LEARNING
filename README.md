@@ -33,7 +33,7 @@ The purpose of this repository is to demonstrate my understanding of **how deep 
 Deep-Learning-Beginner/
 │
 ├── 01 Iris
-├── 02 CNN
+├── 02 MNIST
 ├── 03 Crowd Survillance
 └── README.md
 ```
