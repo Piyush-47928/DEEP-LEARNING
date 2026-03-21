@@ -75,7 +75,7 @@ Output Layer (10 neurons) + Softmax
 
 ```bash
 git clone https://github.com/Piyush-47928/CNN
-cd CNN
+cd CNN-MNIST
 ```
 
 ### 2️⃣ Install Dependencies
