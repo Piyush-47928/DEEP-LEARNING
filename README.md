@@ -89,8 +89,8 @@ Deep-Learning-Beginner/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Deep-Learning-Beginner.git
-cd Deep-Learning
+git clone https://github.com/Piyush-47928/DEEP LEARNING
+cd DEEP LEARNING
 ```
 
 ### 2️⃣ Install Dependencies
