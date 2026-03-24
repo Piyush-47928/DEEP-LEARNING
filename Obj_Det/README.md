@@ -1,4 +1,7 @@
 # 🧠 AI Object Detection System (YOLOv8 + Google Colab)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 An AI-powered object detection system that analyzes images and outputs structured results including object counts, bounding boxes, and confidence scores.
 
