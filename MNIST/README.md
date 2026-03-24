@@ -1,4 +1,8 @@
 # 🧠 Convolutional Neural Network (CNN) on MNIST Dataset
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![Dataset](https://img.shields.io/badge/Dataset-MNIST)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository showcases the implementation of a **Convolutional Neural Network (CNN)** for handwritten digit classification using the **MNIST dataset**. The project demonstrates how deep learning models can effectively recognize and classify images.
 
