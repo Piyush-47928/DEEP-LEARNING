@@ -1,4 +1,7 @@
 # 🧠 Deep Learning
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 This repository is created to **showcase my Deep Learning learning journey and projects**. It contains beginner-friendly implementations of core deep learning concepts using Python along with simple explanations and practical examples.
 
