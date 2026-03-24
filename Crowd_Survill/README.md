@@ -1,5 +1,9 @@
 # 🧠 Crowd Surveillance System  
 ### *(Supervised LLE + Supervised UMAP + Siamese Network)*
+![SQL](https://img.shields.io/badge/Python-Deeplearning-Green)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+![Status](https://img.shields.io/badge/Status-Ongoing-orange)
+
 
 ---
 
